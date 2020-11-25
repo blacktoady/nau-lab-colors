@@ -1,5 +1,3 @@
-/** The Game Rules **/
-	
 		$(function() {
 			var Audio = '<audio autoplay="autoplay" src="gameOver.ogg" type="audio/ogg"></audio>';
 			var colors = $('#colors li');
